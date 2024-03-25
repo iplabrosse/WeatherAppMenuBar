@@ -1,4 +1,4 @@
-WeatherApp WeatherApp is a simple desktop application built with Python that allows users to check the current weather conditions for a specified city or zip code. The application uses the OpenWeatherMap API to fetch weather data and displays it directly on your desktop.
+WeatherApp is a simple desktop application built with Python that allows users to check the current weather conditions for a specified city or zip code. The application uses the OpenWeatherMap API to fetch weather data and displays it directly on your desktop.
 
 Features Search for weather information by city name or zip code. Automatically refreshes weather data every 30 minutes. Displays weather conditions and temperature. Updates the app icon with the current weather condition icon. Prerequisites Before you begin, ensure you have met the following requirements:
 
