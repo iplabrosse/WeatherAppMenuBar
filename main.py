@@ -4,7 +4,7 @@ import rumps
 
 # Assuming UNITS and API_KEY are defined globally
 UNITS = 'imperial'  # Example unit
-API_KEY = 'f0f0dee99928019a8e62a17b1a575dcb'  # Replace with your actual OpenWeatherMap API key
+API_KEY = ''  # Replace with your actual OpenWeatherMap API key
 
 def get_weather(city_name, zipcode):
     # Corrected URL formation with proper query parameter separation
